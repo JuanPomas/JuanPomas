@@ -1,11 +1,11 @@
-### Hi there 👋, my name is Juan
-#### Data Analyst
+### Hola, soy Juan 👋
 
-I am a Junior Data Analyst, hardworking and motivated. I enjoy challenges and constantly seek opportunities for further learning. My goal is to apply my knowledge to real-life cases in order to assist in decision-making and problem-solving.
+**Analista de datos | People Analytics**
 
-Skills: Python | R | SQL | Power BI | Pandas | Numpy|  Matplotlib | Ploltly | Seaborn
+Trabajo con datos de personal en el sector universitario. Construyo informes en Power BI que convierten esos datos en controles útiles: seguimiento diario de la planificación, calidad del dato y detección de errores antes de que lleguen a nómina.
 
+Vengo de la administración de empresas (ADE) y de la logística, lo que me ayuda a entender los procesos de negocio que hay detrás de los datos. Ahora mismo, además, me estoy formando en ingeniería de datos.
 
+**📊 Proyecto destacado:** [Control de la planificación docente](https://github.com/JuanPomas/control-planificacion-docente), un informe en Power BI con cinco controles de calidad de datos.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JuanPomas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/juanpomas/)  
-
+**🛠️ Herramientas:** Power BI (Power Query, DAX) · SQL · Excel · Python (pandas) · Git
